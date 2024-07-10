@@ -1,0 +1,19 @@
+.order-image{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+.order-parent{
+    background-color: blue
+}
+.order-para{
+    font-size: 2rem;
+    font-weight: bold;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    
+    ;
+}
